@@ -11,14 +11,30 @@ namespace Operador_IS_y_AS
             string nombre = Console.ReadLine();
             var nuevoUsuario = new UsuarioPagado { Nombre = nombre, itemsGuardados = nums };
             //PARA SABER QUE TIPO DE CLASE ES EL USUARIO ACTUAL
-            if(nuevoUsuario is Usuario)
+            if (nuevoUsuario is Usuario)
             {
                 Console.WriteLine("Es usuario");
-                if(nuevoUsuario is UsuarioPagado)
+                if (nuevoUsuario is UsuarioPagado)
                     Console.WriteLine("Es usuario pagado");
                 if (nuevoUsuario is Admin)
                     Console.WriteLine("Es usuario admin");
+            }
 
+
+            //OPERADOR AS
+            object[] Usuarios = new object[3]
+            {
+                nuevoUsuario, null, new Proveedor{Agencia = 555}
+            };
+            for (int i = 0; i < Usuarios.Length; i++)
+            {
+                var us = Usuarios[i] as Usuario;
+                if (us != null)
+                {
+                    Console.WriteLine($"{us} es de tipo usuario");
+                }
+                else
+                    Console.WriteLine($"{Usuarios[i]} no es de tipo usuario");
             }
         }
     }
