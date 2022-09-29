@@ -1,0 +1,13 @@
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Operador Null Colescing\bin\Debug\netcoreapp3.1\Operador Null Colescing.exe
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Operador Null Colescing\bin\Debug\netcoreapp3.1\Operador Null Colescing.deps.json
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Operador Null Colescing\bin\Debug\netcoreapp3.1\Operador Null Colescing.runtimeconfig.json
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Operador Null Colescing\bin\Debug\netcoreapp3.1\Operador Null Colescing.runtimeconfig.dev.json
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Operador Null Colescing\bin\Debug\netcoreapp3.1\Operador Null Colescing.dll
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Operador Null Colescing\bin\Debug\netcoreapp3.1\Operador Null Colescing.pdb
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Operador Null Colescing\obj\Debug\netcoreapp3.1\Operador Null Colescing.csprojAssemblyReference.cache
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Operador Null Colescing\obj\Debug\netcoreapp3.1\Operador Null Colescing.AssemblyInfoInputs.cache
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Operador Null Colescing\obj\Debug\netcoreapp3.1\Operador Null Colescing.AssemblyInfo.cs
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Operador Null Colescing\obj\Debug\netcoreapp3.1\Operador Null Colescing.csproj.CoreCompileInputs.cache
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Operador Null Colescing\obj\Debug\netcoreapp3.1\Operador Null Colescing.dll
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Operador Null Colescing\obj\Debug\netcoreapp3.1\Operador Null Colescing.pdb
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Operador Null Colescing\obj\Debug\netcoreapp3.1\Operador Null Colescing.genruntimeconfig.cache

@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30711.63
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operador Ternario", "Operador Ternario\Operador Ternario.csproj", "{6AD1489E-9377-444F-812E-6A2F3CC58713}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operador Null Colescing", "Operador Null Colescing\Operador Null Colescing.csproj", "{B2A1B68B-9265-40E1-8560-465E55192701}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{6AD1489E-9377-444F-812E-6A2F3CC58713}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6AD1489E-9377-444F-812E-6A2F3CC58713}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6AD1489E-9377-444F-812E-6A2F3CC58713}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2A1B68B-9265-40E1-8560-465E55192701}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2A1B68B-9265-40E1-8560-465E55192701}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2A1B68B-9265-40E1-8560-465E55192701}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2A1B68B-9265-40E1-8560-465E55192701}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
