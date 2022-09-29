@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operador Null Colescing", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operador de condición nula", "Operador de condición nula\Operador de condición nula.csproj", "{3016ADA5-3E58-425A-BB5F-D35B2BB09700}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operador IS y AS", "Operador IS y AS\Operador IS y AS.csproj", "{ED6EB55D-E651-4399-B7B9-B063B2B33805}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{3016ADA5-3E58-425A-BB5F-D35B2BB09700}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3016ADA5-3E58-425A-BB5F-D35B2BB09700}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3016ADA5-3E58-425A-BB5F-D35B2BB09700}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED6EB55D-E651-4399-B7B9-B063B2B33805}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED6EB55D-E651-4399-B7B9-B063B2B33805}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED6EB55D-E651-4399-B7B9-B063B2B33805}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED6EB55D-E651-4399-B7B9-B063B2B33805}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

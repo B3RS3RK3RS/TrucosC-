@@ -1,0 +1,13 @@
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Operador IS y AS\bin\Debug\netcoreapp3.1\Operador IS y AS.exe
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Operador IS y AS\bin\Debug\netcoreapp3.1\Operador IS y AS.deps.json
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Operador IS y AS\bin\Debug\netcoreapp3.1\Operador IS y AS.runtimeconfig.json
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Operador IS y AS\bin\Debug\netcoreapp3.1\Operador IS y AS.runtimeconfig.dev.json
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Operador IS y AS\bin\Debug\netcoreapp3.1\Operador IS y AS.dll
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Operador IS y AS\bin\Debug\netcoreapp3.1\Operador IS y AS.pdb
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Operador IS y AS\obj\Debug\netcoreapp3.1\Operador IS y AS.csprojAssemblyReference.cache
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Operador IS y AS\obj\Debug\netcoreapp3.1\Operador IS y AS.AssemblyInfoInputs.cache
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Operador IS y AS\obj\Debug\netcoreapp3.1\Operador IS y AS.AssemblyInfo.cs
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Operador IS y AS\obj\Debug\netcoreapp3.1\Operador IS y AS.csproj.CoreCompileInputs.cache
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Operador IS y AS\obj\Debug\netcoreapp3.1\Operador IS y AS.dll
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Operador IS y AS\obj\Debug\netcoreapp3.1\Operador IS y AS.pdb
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Operador IS y AS\obj\Debug\netcoreapp3.1\Operador IS y AS.genruntimeconfig.cache
