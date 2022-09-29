@@ -1,0 +1,13 @@
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Operador de condición nula\bin\Debug\netcoreapp3.1\Operador de condición nula.exe
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Operador de condición nula\bin\Debug\netcoreapp3.1\Operador de condición nula.deps.json
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Operador de condición nula\bin\Debug\netcoreapp3.1\Operador de condición nula.runtimeconfig.json
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Operador de condición nula\bin\Debug\netcoreapp3.1\Operador de condición nula.runtimeconfig.dev.json
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Operador de condición nula\bin\Debug\netcoreapp3.1\Operador de condición nula.dll
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Operador de condición nula\bin\Debug\netcoreapp3.1\Operador de condición nula.pdb
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Operador de condición nula\obj\Debug\netcoreapp3.1\Operador de condición nula.csprojAssemblyReference.cache
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Operador de condición nula\obj\Debug\netcoreapp3.1\Operador de condición nula.AssemblyInfoInputs.cache
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Operador de condición nula\obj\Debug\netcoreapp3.1\Operador de condición nula.AssemblyInfo.cs
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Operador de condición nula\obj\Debug\netcoreapp3.1\Operador de condición nula.csproj.CoreCompileInputs.cache
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Operador de condición nula\obj\Debug\netcoreapp3.1\Operador de condición nula.dll
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Operador de condición nula\obj\Debug\netcoreapp3.1\Operador de condición nula.pdb
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Operador de condición nula\obj\Debug\netcoreapp3.1\Operador de condición nula.genruntimeconfig.cache
