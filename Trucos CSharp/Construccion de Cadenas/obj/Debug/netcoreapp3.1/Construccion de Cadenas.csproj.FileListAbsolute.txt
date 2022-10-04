@@ -1,0 +1,12 @@
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Construccion de Cadenas\bin\Debug\netcoreapp3.1\Construccion de Cadenas.exe
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Construccion de Cadenas\bin\Debug\netcoreapp3.1\Construccion de Cadenas.deps.json
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Construccion de Cadenas\bin\Debug\netcoreapp3.1\Construccion de Cadenas.runtimeconfig.json
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Construccion de Cadenas\bin\Debug\netcoreapp3.1\Construccion de Cadenas.runtimeconfig.dev.json
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Construccion de Cadenas\bin\Debug\netcoreapp3.1\Construccion de Cadenas.dll
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Construccion de Cadenas\bin\Debug\netcoreapp3.1\Construccion de Cadenas.pdb
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Construccion de Cadenas\obj\Debug\netcoreapp3.1\Construccion de Cadenas.AssemblyInfoInputs.cache
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Construccion de Cadenas\obj\Debug\netcoreapp3.1\Construccion de Cadenas.AssemblyInfo.cs
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Construccion de Cadenas\obj\Debug\netcoreapp3.1\Construccion de Cadenas.csproj.CoreCompileInputs.cache
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Construccion de Cadenas\obj\Debug\netcoreapp3.1\Construccion de Cadenas.dll
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Construccion de Cadenas\obj\Debug\netcoreapp3.1\Construccion de Cadenas.pdb
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Construccion de Cadenas\obj\Debug\netcoreapp3.1\Construccion de Cadenas.genruntimeconfig.cache

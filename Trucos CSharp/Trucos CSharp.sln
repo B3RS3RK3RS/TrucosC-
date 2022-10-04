@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30711.63
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operador Ternario", "Operador Ternario\Operador Ternario.csproj", "{6AD1489E-9377-444F-812E-6A2F3CC58713}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operador Ternario", "Operador Ternario\Operador Ternario.csproj", "{6AD1489E-9377-444F-812E-6A2F3CC58713}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operador Null Colescing", "Operador Null Colescing\Operador Null Colescing.csproj", "{B2A1B68B-9265-40E1-8560-465E55192701}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operador Null Colescing", "Operador Null Colescing\Operador Null Colescing.csproj", "{B2A1B68B-9265-40E1-8560-465E55192701}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operador de condición nula", "Operador de condición nula\Operador de condición nula.csproj", "{3016ADA5-3E58-425A-BB5F-D35B2BB09700}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operador de condición nula", "Operador de condición nula\Operador de condición nula.csproj", "{3016ADA5-3E58-425A-BB5F-D35B2BB09700}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operador IS y AS", "Operador IS y AS\Operador IS y AS.csproj", "{ED6EB55D-E651-4399-B7B9-B063B2B33805}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operador IS y AS", "Operador IS y AS\Operador IS y AS.csproj", "{ED6EB55D-E651-4399-B7B9-B063B2B33805}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Construccion de Cadenas", "Construccion de Cadenas\Construccion de Cadenas.csproj", "{33AEC013-8E1C-411B-986A-E9080C90A716}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{ED6EB55D-E651-4399-B7B9-B063B2B33805}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED6EB55D-E651-4399-B7B9-B063B2B33805}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED6EB55D-E651-4399-B7B9-B063B2B33805}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33AEC013-8E1C-411B-986A-E9080C90A716}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33AEC013-8E1C-411B-986A-E9080C90A716}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33AEC013-8E1C-411B-986A-E9080C90A716}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33AEC013-8E1C-411B-986A-E9080C90A716}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
