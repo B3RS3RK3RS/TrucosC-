@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections;
+using System.Collections.Generic;
 
 namespace Identificadores_Literales
 {
@@ -41,7 +43,7 @@ namespace Identificadores_Literales
             //string @if = "if(a>b){\n .. \n}";
             //Console.WriteLine(@if);
             #endregion
-
+            #region enum
             //Console.WriteLine("Bienvenido, Elija una categoría");
             //var enumVals = Enum.GetValues(typeof(Categoria));
             //foreach (var item in enumVals)
@@ -50,16 +52,36 @@ namespace Identificadores_Literales
             //}
             //var categoria = Console.ReadLine();
             //Console.WriteLine($"Respuesta: {Enum.Parse(typeof(Categoria), categoria)}");
+            #endregion
+            #region flag
+            //var val = Busqueda.Categoria | Busqueda.Reciente | Busqueda.Ninguno; //Asigna valor de "Categoria,Reciente"
+            //Console.WriteLine(val.ToString());
 
-            var val = Busqueda.Categoria | Busqueda.Reciente | Busqueda.Ninguno; //Asigna valor de "Categoria,Reciente"
-            Console.WriteLine(val.ToString());
+            //if (val.HasFlag(Busqueda.Ninguno))
+            //    Console.WriteLine("Incluye Ninguno");
+            //if (val.HasFlag(Busqueda.Reciente))
+            //    Console.WriteLine("Incluye Reciente");
+            //if (val.HasFlag(Busqueda.Categoria))
+            //    Console.WriteLine("Incluye Categoria");
+            #endregion
+            #region Yield
+            var enumVals = Enum.GetValues(typeof(Categoria));
+            var imprime = EnumNombOpc(enumVals);
+            foreach (var item in imprime)
+            {
+                Console.WriteLine(item); //PASO 2
+            }
+            #endregion
+        }
 
-            if (val.HasFlag(Busqueda.Ninguno))
-                Console.WriteLine("Incluye Ninguno");
-            if (val.HasFlag(Busqueda.Reciente))
-                Console.WriteLine("Incluye Reciente");
-            if (val.HasFlag(Busqueda.Categoria))
-                Console.WriteLine("Incluye Categoria");
+        public static IEnumerable<string> EnumNombOpc (Array enumVals)
+        {
+            foreach (var item in enumVals)
+            {
+                string opc = $"{(int)item} - {item}";   //PASO 1
+                yield return opc;
+                Console.WriteLine("Libero memoria");    //PASO 3
+            }
         }
     }
 }
