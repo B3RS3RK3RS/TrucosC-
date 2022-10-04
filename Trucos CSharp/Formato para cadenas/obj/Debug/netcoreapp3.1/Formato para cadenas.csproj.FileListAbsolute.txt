@@ -1,0 +1,12 @@
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Formato para cadenas\bin\Debug\netcoreapp3.1\Formato para cadenas.exe
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Formato para cadenas\bin\Debug\netcoreapp3.1\Formato para cadenas.deps.json
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Formato para cadenas\bin\Debug\netcoreapp3.1\Formato para cadenas.runtimeconfig.json
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Formato para cadenas\bin\Debug\netcoreapp3.1\Formato para cadenas.runtimeconfig.dev.json
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Formato para cadenas\bin\Debug\netcoreapp3.1\Formato para cadenas.dll
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Formato para cadenas\bin\Debug\netcoreapp3.1\Formato para cadenas.pdb
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Formato para cadenas\obj\Debug\netcoreapp3.1\Formato para cadenas.AssemblyInfoInputs.cache
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Formato para cadenas\obj\Debug\netcoreapp3.1\Formato para cadenas.AssemblyInfo.cs
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Formato para cadenas\obj\Debug\netcoreapp3.1\Formato para cadenas.csproj.CoreCompileInputs.cache
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Formato para cadenas\obj\Debug\netcoreapp3.1\Formato para cadenas.dll
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Formato para cadenas\obj\Debug\netcoreapp3.1\Formato para cadenas.pdb
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Formato para cadenas\obj\Debug\netcoreapp3.1\Formato para cadenas.genruntimeconfig.cache
