@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Identificadores Literales/1.0.0": {
+        "runtime": {
+          "Identificadores Literales.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Identificadores Literales/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Identificadores Literales\bin\Debug\netcoreapp3.1\Identificadores Literales.exe
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Identificadores Literales\bin\Debug\netcoreapp3.1\Identificadores Literales.deps.json
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Identificadores Literales\bin\Debug\netcoreapp3.1\Identificadores Literales.runtimeconfig.json
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Identificadores Literales\bin\Debug\netcoreapp3.1\Identificadores Literales.runtimeconfig.dev.json
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Identificadores Literales\bin\Debug\netcoreapp3.1\Identificadores Literales.dll
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Identificadores Literales\bin\Debug\netcoreapp3.1\Identificadores Literales.pdb
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Identificadores Literales\obj\Debug\netcoreapp3.1\Identificadores Literales.AssemblyInfoInputs.cache
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Identificadores Literales\obj\Debug\netcoreapp3.1\Identificadores Literales.AssemblyInfo.cs
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Identificadores Literales\obj\Debug\netcoreapp3.1\Identificadores Literales.csproj.CoreCompileInputs.cache
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Identificadores Literales\obj\Debug\netcoreapp3.1\Identificadores Literales.dll
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Identificadores Literales\obj\Debug\netcoreapp3.1\Identificadores Literales.pdb
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Identificadores Literales\obj\Debug\netcoreapp3.1\Identificadores Literales.genruntimeconfig.cache
