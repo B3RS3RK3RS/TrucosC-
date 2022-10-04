@@ -1,0 +1,12 @@
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Directivas del preProcesador\bin\Release\netcoreapp3.1\Directivas del preProcesador.exe
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Directivas del preProcesador\bin\Release\netcoreapp3.1\Directivas del preProcesador.deps.json
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Directivas del preProcesador\bin\Release\netcoreapp3.1\Directivas del preProcesador.runtimeconfig.json
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Directivas del preProcesador\bin\Release\netcoreapp3.1\Directivas del preProcesador.runtimeconfig.dev.json
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Directivas del preProcesador\bin\Release\netcoreapp3.1\Directivas del preProcesador.dll
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Directivas del preProcesador\bin\Release\netcoreapp3.1\Directivas del preProcesador.pdb
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Directivas del preProcesador\obj\Release\netcoreapp3.1\Directivas del preProcesador.AssemblyInfoInputs.cache
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Directivas del preProcesador\obj\Release\netcoreapp3.1\Directivas del preProcesador.AssemblyInfo.cs
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Directivas del preProcesador\obj\Release\netcoreapp3.1\Directivas del preProcesador.csproj.CoreCompileInputs.cache
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Directivas del preProcesador\obj\Release\netcoreapp3.1\Directivas del preProcesador.dll
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Directivas del preProcesador\obj\Release\netcoreapp3.1\Directivas del preProcesador.pdb
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Directivas del preProcesador\obj\Release\netcoreapp3.1\Directivas del preProcesador.genruntimeconfig.cache
