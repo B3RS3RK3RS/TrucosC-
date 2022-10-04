@@ -130,7 +130,7 @@ namespace Identificadores_Literales
             List<Capitulo> lstCapitulo = new List<Capitulo> { CapituloA, CapituloB };
 
             var union = lstCursos.Join(lstCapitulo,
-                curso => curso, 
+                curso => curso,
                 cap => cap._curso,
                 (_curso, _cap) => new
                 {
@@ -141,9 +141,33 @@ namespace Identificadores_Literales
 
             foreach (var item in union)
             {
-                Console.WriteLine(item);
+                //Console.WriteLine(item);
             }
 
+            #endregion
+            #region Diccionarios
+            var duracionCapitulos = new Dictionary<string, TimeSpan>
+            {
+                {"Cap001", new TimeSpan(2,3,6) },
+                {"Cap002", new TimeSpan(3,4,7) },
+                {"Cap003", new TimeSpan(4,5,8) }
+            };
+            var dKs = duracionCapitulos.Keys;
+            var dVals = duracionCapitulos.Values;
+
+            bool contieneKey = duracionCapitulos.ContainsKey("Cap002");
+            bool contieneValue = duracionCapitulos.ContainsValue(new TimeSpan(4, 5, 8));
+
+            //ORDENAR ASCENDENTE OrderBy
+            var ordenado = duracionCapitulos.OrderByDescending(valor => valor.Key);
+
+            var codigoFirebaseAuth = new Dictionary<string, string>
+            {
+                {"auth/email-already-exist", "El correo ya existe" },
+                {"auth/id-token-expired", "El token expiró" }
+            };
+            string error = "auth/email-already-exist";
+            Console.WriteLine($"Error de autenticación: {codigoFirebaseAuth.GetValueOrDefault(error)}");
             #endregion
         }
 
