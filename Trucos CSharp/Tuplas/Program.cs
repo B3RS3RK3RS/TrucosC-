@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 
 namespace Tuplas
 {
@@ -24,6 +25,24 @@ namespace Tuplas
                 //:P1 Para indicar que es formato doble
                 string imprime = string.Format("{0,-15} {1,-15:N0} {2,-15:N0} {3,-15:N0} {4,-15:MMMM} {5:P1}", caso.Item1, caso.Item2, caso.Item3, caso.Item4, caso.Item5, porcRecu);
                 Console.WriteLine(imprime);
+
+
+
+                double porcRecu2 = caso.Item3 / (double)caso.Item2 *100;
+                Console.WriteLine(porcRecu2.ToString("0.0"));
+
+
+                CultureInfo esPE = CultureInfo.CreateSpecificCulture("es-PE");
+                Console.WriteLine(caso.Item2.ToString("0.0", esPE));
+
+
+                string msj = string.Format("#0.##%" + (porcRecu > 0.8 ? "Bueno" : "Malo"), porcRecu);
+
+                Console.WriteLine(porcRecu.ToString(msj));
+
+
+                long telefono = 151941917926;
+                Console.WriteLine(telefono.ToString("+# (##) ###-###-###"));
             }
         }
     }
