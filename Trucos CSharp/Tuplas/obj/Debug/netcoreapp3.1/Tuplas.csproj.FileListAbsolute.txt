@@ -1,0 +1,12 @@
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Tuplas\bin\Debug\netcoreapp3.1\Tuplas.exe
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Tuplas\bin\Debug\netcoreapp3.1\Tuplas.deps.json
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Tuplas\bin\Debug\netcoreapp3.1\Tuplas.runtimeconfig.json
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Tuplas\bin\Debug\netcoreapp3.1\Tuplas.runtimeconfig.dev.json
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Tuplas\bin\Debug\netcoreapp3.1\Tuplas.dll
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Tuplas\bin\Debug\netcoreapp3.1\Tuplas.pdb
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Tuplas\obj\Debug\netcoreapp3.1\Tuplas.AssemblyInfoInputs.cache
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Tuplas\obj\Debug\netcoreapp3.1\Tuplas.AssemblyInfo.cs
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Tuplas\obj\Debug\netcoreapp3.1\Tuplas.csproj.CoreCompileInputs.cache
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Tuplas\obj\Debug\netcoreapp3.1\Tuplas.dll
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Tuplas\obj\Debug\netcoreapp3.1\Tuplas.pdb
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Tuplas\obj\Debug\netcoreapp3.1\Tuplas.genruntimeconfig.cache

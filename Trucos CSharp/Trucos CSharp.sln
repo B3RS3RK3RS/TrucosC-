@@ -11,17 +11,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operador de condición nula
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operador IS y AS", "Operador IS y AS\Operador IS y AS.csproj", "{ED6EB55D-E651-4399-B7B9-B063B2B33805}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Construccion de Cadenas", "Construccion de Cadenas\Construccion de Cadenas.csproj", "{33AEC013-8E1C-411B-986A-E9080C90A716}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Construccion de Cadenas", "Construccion de Cadenas\Construccion de Cadenas.csproj", "{33AEC013-8E1C-411B-986A-E9080C90A716}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BASICO", "BASICO", "{03DC5A79-B2F2-44E9-B10A-FD4EBA9E04B2}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.BASICO", "1.BASICO", "{03DC5A79-B2F2-44E9-B10A-FD4EBA9E04B2}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "INTERMEDIO", "INTERMEDIO", "{3DD7B7A5-2C7F-48B8-B2CA-EBFA0F807B0D}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.INTERMEDIO", "1.INTERMEDIO", "{3DD7B7A5-2C7F-48B8-B2CA-EBFA0F807B0D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interpolacion de Cadenas", "Interpolacion de Cadenas\Interpolacion de Cadenas.csproj", "{6DB1FFBD-7547-4B30-ADC7-B3EDDCE3BEB6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interpolacion de Cadenas", "Interpolacion de Cadenas\Interpolacion de Cadenas.csproj", "{6DB1FFBD-7547-4B30-ADC7-B3EDDCE3BEB6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Validacion de Cadenas", "Validacion de Cadenas\Validacion de Cadenas.csproj", "{1871BBFB-ED19-40CB-9F90-853E29D6137B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Validacion de Cadenas", "Validacion de Cadenas\Validacion de Cadenas.csproj", "{1871BBFB-ED19-40CB-9F90-853E29D6137B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Formato para cadenas", "Formato para cadenas\Formato para cadenas.csproj", "{6BE4D293-A6FC-4C13-BCF3-9CC0A9FC3702}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Formato para cadenas", "Formato para cadenas\Formato para cadenas.csproj", "{6BE4D293-A6FC-4C13-BCF3-9CC0A9FC3702}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuplas", "Tuplas\Tuplas.csproj", "{910CA57B-6CA7-4137-86A3-8619ACA1A43A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.AVANZADO", "3.AVANZADO", "{2CA0A97F-8450-4082-92EB-F64BD0E99AE1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -61,6 +65,10 @@ Global
 		{6BE4D293-A6FC-4C13-BCF3-9CC0A9FC3702}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6BE4D293-A6FC-4C13-BCF3-9CC0A9FC3702}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6BE4D293-A6FC-4C13-BCF3-9CC0A9FC3702}.Release|Any CPU.Build.0 = Release|Any CPU
+		{910CA57B-6CA7-4137-86A3-8619ACA1A43A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{910CA57B-6CA7-4137-86A3-8619ACA1A43A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{910CA57B-6CA7-4137-86A3-8619ACA1A43A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{910CA57B-6CA7-4137-86A3-8619ACA1A43A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -74,6 +82,7 @@ Global
 		{6DB1FFBD-7547-4B30-ADC7-B3EDDCE3BEB6} = {3DD7B7A5-2C7F-48B8-B2CA-EBFA0F807B0D}
 		{1871BBFB-ED19-40CB-9F90-853E29D6137B} = {3DD7B7A5-2C7F-48B8-B2CA-EBFA0F807B0D}
 		{6BE4D293-A6FC-4C13-BCF3-9CC0A9FC3702} = {3DD7B7A5-2C7F-48B8-B2CA-EBFA0F807B0D}
+		{910CA57B-6CA7-4137-86A3-8619ACA1A43A} = {2CA0A97F-8450-4082-92EB-F64BD0E99AE1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B5CC7CE1-79CA-4DB7-B0F8-159831E4424F}
