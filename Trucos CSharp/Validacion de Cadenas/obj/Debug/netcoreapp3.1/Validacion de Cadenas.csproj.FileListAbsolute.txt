@@ -1,0 +1,12 @@
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Validacion de Cadenas\bin\Debug\netcoreapp3.1\Validacion de Cadenas.exe
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Validacion de Cadenas\bin\Debug\netcoreapp3.1\Validacion de Cadenas.deps.json
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Validacion de Cadenas\bin\Debug\netcoreapp3.1\Validacion de Cadenas.runtimeconfig.json
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Validacion de Cadenas\bin\Debug\netcoreapp3.1\Validacion de Cadenas.runtimeconfig.dev.json
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Validacion de Cadenas\bin\Debug\netcoreapp3.1\Validacion de Cadenas.dll
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Validacion de Cadenas\bin\Debug\netcoreapp3.1\Validacion de Cadenas.pdb
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Validacion de Cadenas\obj\Debug\netcoreapp3.1\Validacion de Cadenas.AssemblyInfoInputs.cache
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Validacion de Cadenas\obj\Debug\netcoreapp3.1\Validacion de Cadenas.AssemblyInfo.cs
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Validacion de Cadenas\obj\Debug\netcoreapp3.1\Validacion de Cadenas.csproj.CoreCompileInputs.cache
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Validacion de Cadenas\obj\Debug\netcoreapp3.1\Validacion de Cadenas.dll
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Validacion de Cadenas\obj\Debug\netcoreapp3.1\Validacion de Cadenas.pdb
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Validacion de Cadenas\obj\Debug\netcoreapp3.1\Validacion de Cadenas.genruntimeconfig.cache
