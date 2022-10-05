@@ -1,4 +1,7 @@
-﻿using System;
+﻿//DEFINIR DIRECTIVAS PERSONALIZADAS PARA ESTE ARCHIVO .cs
+#define LogDT     
+using System;
+using System.Diagnostics;
 
 namespace Directivas_del_preProcesador
 {
@@ -33,8 +36,12 @@ namespace Directivas_del_preProcesador
 
             //FINALIZAR REGION
             #endregion
+#if LogDT
+            Console.WriteLine($"Hora y fecha: {DateTime.Now}");
+#endif
         }
 
+        [Conditional("LOG")]
         public static void GuardarEnBD()
         {
             Console.WriteLine("estoy en bd");

@@ -6,4 +6,9 @@
     <RootNamespace>Directivas_del_preProcesador</RootNamespace>
   </PropertyGroup>
 
+  <PropertyGroup>
+    <DefineConstants>LOG</DefineConstants>   <!-- DEFINIR DIRECTIVAS PERSONALIZADAS PARA TODO EL PROYECTO --> 
+  </PropertyGroup>
+
+
 </Project>

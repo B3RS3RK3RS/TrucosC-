@@ -10,3 +10,4 @@ D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Dir
 D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Directivas del preProcesador\obj\Release\netcoreapp3.1\Directivas del preProcesador.dll
 D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Directivas del preProcesador\obj\Release\netcoreapp3.1\Directivas del preProcesador.pdb
 D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Directivas del preProcesador\obj\Release\netcoreapp3.1\Directivas del preProcesador.genruntimeconfig.cache
+D:\Archivos\UTP\VIII CICLO\INTEGRADOR I\GIT\C# Trucos\TrucosC-\Trucos CSharp\Directivas del preProcesador\obj\Release\netcoreapp3.1\Directivas del preProcesador.csprojAssemblyReference.cache
