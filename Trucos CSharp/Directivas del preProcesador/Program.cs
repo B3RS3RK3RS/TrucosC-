@@ -39,6 +39,17 @@ namespace Directivas_del_preProcesador
 #if LogDT
             Console.WriteLine($"Hora y fecha: {DateTime.Now}");
 #endif
+
+            //DEFINIENDO VARIABLES ENVIRONMENT
+            Console.WriteLine($"Stack Trace: {Environment.StackTrace}");
+            Console.WriteLine($"Directorio actual: {Environment.CurrentDirectory}");
+            Console.WriteLine($"Usuarui actual: {Environment.UserName}");
+            Console.WriteLine($"Maquina actual: {Environment.MachineName}");
+            Console.WriteLine($"Version OS: {Environment.OSVersion}");
+            Console.WriteLine($"Directorio VS: {Environment.GetEnvironmentVariable("VisualStudioDir")}");
+
+            //Variables de ENTORNO
+            var VarsEntorno = Environment.GetEnvironmentVariables();
         }
 
         [Conditional("LOG")]
